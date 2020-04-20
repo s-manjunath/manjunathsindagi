@@ -19,10 +19,10 @@
 # deploy contexts will inherit these settings.
 [context.production]
   publish = "docs/"
-  command = "hugo --gc --minify -t ../.. -d ../docs -v -b /"
+  command = "hugo --gc --minify --enableGitInfo"
 
 # Deploy Preview context: all deploys resulting from a pull/merge request will
 # inherit these settings.
 [context.deploy-preview]
   publish = "docs/"
-  command = "hugo --gc --minify -t ../.. -d ../docs -v -b /"
+  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL""
