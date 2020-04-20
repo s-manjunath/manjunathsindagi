@@ -2,7 +2,7 @@
 title: "Investigator and Advanced Analytics"
 weight: 6
 ---
-
+![This is an image](/img/en/projects/investigatoranalytics/investigator.png)
 This project involved mining investigators who conduct clinical trials from open data repositories viz. pubmed, clinical trials, FDA. 
 ### Key Components
 
