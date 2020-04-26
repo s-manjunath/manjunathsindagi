@@ -15,7 +15,7 @@ weight: 9
 	+ Built & Scaled over half a dozen products.  
 	+ Lead and managed teams.  
 	+ Worked on different data domains - viz. Media, financial news, health care, chat bots i.e conversational data.  
-* 3 Patents  
+* Patents  
 	+ Decision Support Methods Under Uncertainty  
 	+ Novel Methods for Supply Chains Incorporating Uncertainty.  
 	+ Polytopes and Convex Body Database  

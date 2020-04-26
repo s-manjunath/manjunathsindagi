@@ -1,10 +1,11 @@
 ---
 title: "About"
-image: "manjunath_profile.png"
+image: "profile.jpg"
 weight: 8
 ---
-
-   
+  
+    
+  	
 I am a technologist with around 15 years of experience in the Industry. I provide technical solutions to organizations for various business problems.  
 
 I provide consulting services in the areas of Architecture, Product Design and Development, Data Science, Data Extraction, Data Strategy, Evaluate data science need, Search Solutions.  

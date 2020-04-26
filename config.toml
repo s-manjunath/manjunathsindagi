@@ -90,4 +90,14 @@ DefaultContentLanguage           = "en"                    # Default language fo
             description  = "Website Description"   # Max 160 characters show in search results
             # footerText   = ""                      # Text to override default footer text (markdown allowed)
 
- 
+
+[imaging]
+# See https://github.com/disintegration/imaging
+# CatmullRom is a sharp bicubic filter which should fit the docs site well with its many screenshots.
+# Note that you can also set this per image processing.
+	resampleFilter = "CatmullRom"
+
+# Default JPEG quality setting. Default is 75.
+	quality = 75
+
+anchor = "smart"
