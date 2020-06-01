@@ -12,7 +12,8 @@ In these testing times, it is important to effectively utilize the time to do pr
 
 ----
 - ##### **Personal Website**
-	- Having a personal site was long cherished item in my to do list. I had tried couple of times to have my own site and built some site on my local machine and other servers, but due to some  or reason it never seen the light of the day. Finally, I could make one during the lock down and also started writing blogs.     	
+	- Having a personal site was long cherished item in my to do list. I had tried couple of times to have my own site and built some site on my local machine and other servers, but due to some  or reason it never seen the light of the day. Finally, I could make one during the lock down and also started writing blogs.  
+   	
 ----
  
 - ##### **Using Kibana with Snowflake Database rather than Elastic Search**
@@ -42,8 +43,9 @@ In these testing times, it is important to effectively utilize the time to do pr
 	- The idea came up when my mail box was full.
 	- Extraction of gmail is done using python, there is some more work to  be done before this can be published.  
 
-----
-- ##### **Writing on Quora**
+----  
+
+- #####  **Writing on Quora**
 	- I also started writing on Quora again which I had discontinued.
 	
 
