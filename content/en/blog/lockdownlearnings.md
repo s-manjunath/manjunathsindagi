@@ -12,11 +12,11 @@ In these testing times, it is important to effectively utilize the time to do pr
 
 ----  
 
-- ##### **Personal Website**
+-  **Personal Website**
 	- Having a personal site was long cherished item in my to do list. I had tried couple of times to have my own site and built some site on my local machine and other servers, but due to some  or reason it never seen the light of the day. Finally, I could make one during the lock down and also started writing blogs.  
    	
 ----  
-- ##### **Using Kibana with Snowflake Database rather than Elastic Search**
+-  **Using Kibana with Snowflake Database rather than Elastic Search**
 	-  Search has been one of my favourite areas to work since I completed my Masters from IIIT-B. I had worked on Solr around 2008-09, where in I understood the nuances of Search.
 	- Later at different stages of my work life, I had used Solr for different Use Cases like News Search, Music Search etc.
 	- However, this lock down I got the opportunity to work with Elastic Search and Kibana. It is great to learn this tool (ELK) and the way search has evolved over time is incredible which is evident from the features of ELK Stack. There was a time when it took a day or two to configure Solr, and now it hardly takes few minutes to get the system up. Also, the front end - Kibana is a great tool to search from  elastic search, visualize, analyze logs , machine learning and may other features that is available with minimal changes. These were not even heard then, search has surely come a long way.
@@ -25,7 +25,7 @@ In these testing times, it is important to effectively utilize the time to do pr
 	- Apparently, the use case was to use Snowflake as back end search for Kibana and the functionalities has to be same as Elastic Search. To a large extent we could modify the code and build a system that could work with Kibana. Still more challenges are on the way, but the framework is available to modify.  
 
 ----  	
-- ##### **Sadhana**
+-  **Sadhana**
 	- With the kind of sedentary life, stressful and erratic lifestyle, I took up a sadhana designed by Sadhguru for 40 days.
 	- I had done the course Inner Engineering from Isha Foundation where Sadhguru has offered Shambhavi Mahamudra to the people. I also learnt Shoonya and Shakti Chalana Kriya. I had been very regular with Shambhavi however Shakti Chalana I had discontinued.
 	- This lockdown Sadhguru Offered 40 days Sadhana where in I could continue with the practices and complete it without missing a single day.
@@ -38,14 +38,14 @@ In these testing times, it is important to effectively utilize the time to do pr
 	- I would like to continue these practices  and also more yoga practices in my routine.
 ----
 
-- ##### **Deleting Mails using Machine Learning Technique**
+-  **Deleting Mails using Machine Learning Technique**
 	- Working on a hobby project to delete mails from gmail, if not delete label those emails that could be deleted.
 	- The idea came up when my mail box was full.
 	- Extraction of gmail is done using python, there is some more work to  be done before this can be published.  
 
 ----  
 
-- ##### **Quora Writing**
+-  **Quora Writing**
 	- I also started writing on Quora again which I had discontinued.
 	
 
