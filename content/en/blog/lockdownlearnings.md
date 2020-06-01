@@ -45,7 +45,7 @@ In these testing times, it is important to effectively utilize the time to do pr
 
 ----  
 
-- #####  **Writing on Quora**
+- ##### **Writing on Quora**
 	- I also started writing on Quora again which I had discontinued.
 	
 
