@@ -10,12 +10,12 @@ Unlike the health care professionals, police, govt officials etc, my work involv
 
 In these testing times, it is important to effectively utilize the time to do productive work and make the most of the opportunity. Here are some of the things that I pursued and could make it happen with the help of Grace.
 
-----
+----  
+
 - ##### **Personal Website**
 	- Having a personal site was long cherished item in my to do list. I had tried couple of times to have my own site and built some site on my local machine and other servers, but due to some  or reason it never seen the light of the day. Finally, I could make one during the lock down and also started writing blogs.  
    	
-----
- 
+----  
 - ##### **Using Kibana with Snowflake Database rather than Elastic Search**
 	-  Search has been one of my favourite areas to work since I completed my Masters from IIIT-B. I had worked on Solr around 2008-09, where in I understood the nuances of Search.
 	- Later at different stages of my work life, I had used Solr for different Use Cases like News Search, Music Search etc.
@@ -24,7 +24,7 @@ In these testing times, it is important to effectively utilize the time to do pr
 	- Later, realized we should use Elastic and Kibana 7.4.2 OSS Version which has Apache License .Finally, rebuilt, retested and deployed this open source  for our use case in production.
 	- Apparently, the use case was to use Snowflake as back end search for Kibana and the functionalities has to be same as Elastic Search. To a large extent we could modify the code and build a system that could work with Kibana. Still more challenges are on the way, but the framework is available to modify.  
 
-----	
+----  	
 - ##### **Sadhana**
 	- With the kind of sedentary life, stressful and erratic lifestyle, I took up a sadhana designed by Sadhguru for 40 days.
 	- I had done the course Inner Engineering from Isha Foundation where Sadhguru has offered Shambhavi Mahamudra to the people. I also learnt Shoonya and Shakti Chalana Kriya. I had been very regular with Shambhavi however Shakti Chalana I had discontinued.
@@ -45,7 +45,7 @@ In these testing times, it is important to effectively utilize the time to do pr
 
 ----  
 
-- ##### **Writing on Quora**
+- ##### **Quora Writing**
 	- I also started writing on Quora again which I had discontinued.
 	
 
